@@ -11,7 +11,7 @@ email:
 description: > &quot;Nothing endures but change.&quot; &mdash; Heraclitus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: tuyendq
+
 github_username:  tuyendq
 
 # Build settings
