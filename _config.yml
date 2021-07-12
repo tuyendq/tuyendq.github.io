@@ -6,7 +6,7 @@
 
 # Site settings
 title: Practice
-description: Nothing endures but change &mdash; Heraclitus
+description: "Nothing endures but change." &mdash; Heraclitus
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 github_username:  tuyendq
